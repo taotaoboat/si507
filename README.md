@@ -3,6 +3,11 @@ si507 final project by yunyang
 
 # special instructions for running my code
 You have to download all the csv files for datasets
+filtered_questions_top100_df.csv
+filtered_answers_df.csv
+filtered_tags_df.csv
+interview_questions.txt
+
 Required python library: 
 please install pandas and bs4
 
