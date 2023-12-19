@@ -9,7 +9,7 @@ filtered_tags_df.csv
 interview_questions.txt
 
 Required python library: 
-please install pandas and bs4
+please install pandas, bs4 and random
 
 # data structure
 The data structure is built along user’s interaction
