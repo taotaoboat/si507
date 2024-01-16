@@ -1,4 +1,4 @@
-# python interview questions
+# Python interview questions
 si507 final project by yunyang
 
 # special instructions for running my code
